@@ -1,23 +1,5 @@
-#-------------#
-# Maven Files #
-#-------------#
-target
-#---------------------------#
-# Anypoint Studio / Eclipse #
-#---------------------------#
-.studio
-.classpath
-.project
-.settings
-mule-project.xml
-.mule
-catalog
-#-----------#
-# Mac Files #
-#-----------#
-.DS_Store
-#------------------#
-# Derby / ActiveMQ #
-#------------------#
-activemq-data
-derby.log
+id,name,dept,sal
+1,sam,it,8787
+2,tom,sls,8987
+3,bob,it,4543
+4,rom,mkt,6765
