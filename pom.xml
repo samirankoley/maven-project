@@ -30,7 +30,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>samiran.koley@whishworks.com</username>
+					<username>samiran_koley</username>
 					<password>samb11!H</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
